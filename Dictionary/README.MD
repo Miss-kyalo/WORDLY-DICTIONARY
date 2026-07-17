@@ -19,7 +19,7 @@ Coordinates a resilient network transport pipeline using modern JavaScript async
 Dynamic UI Generation:
 Deconstructs compound JSON payload data models on the fly, generating semantic HTML document fragments to display parts of speech, numbered definitions, and beautifully indented usage examples.
 
-阅读 Readiness Themes:
+Readiness Themes:
 Operates an advanced, variable driven design token style engine. Toggling the theme button updates the body class array, seamlessly shifting color spaces between light and dark profiles.
 
 Error Containment Protocols:
@@ -39,7 +39,7 @@ Replaces harsh white glare with a soft, low contrast slate aluminum gradient des
 Sleek Dark Theme:
 Seamlessly swaps global tokens to morph the background canvas into a deep midnight slate fill, drops the cards to charcoal black, and shifts form focus accent rings to an accessible neon violet shade.
 
-Dictionary.com Search Layout:
+Search Layout:
 Utilizes a premium, side by side long horizontal inline input group layout wrapper to smoothly weld the input field and blue action button into one fluid, continuous round pill line.
 
 Inline Vector Image Elements:
