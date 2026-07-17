@@ -3,7 +3,6 @@
 ## Project Description
 Wordly is a fast and responsive Single Page Application dictionary. The application communicates directly with a public external API to retrieve linguistic records seamlessly without triggering standard browser refreshes or full window tab reloads.
 
----
 
 ## Course Rubric Fulfillment Scorecard
 
@@ -28,7 +27,6 @@ Employs clean try catch finally operational boundaries. Cleanly intercepts netwo
 Multimedia Asset Integration:
 Scans response arrays defensively for active audio paths using array flattening, plays media via browser native drivers, and overlays a premium inline vector graphic using verified rendering geometries.
 
----
 
 ## Design, Token Architecture and Visual Polish
 Moving past plain, static templates, this interface implements modern CSS engineering standards to achieve a polished, consumer grade feel:
@@ -45,7 +43,6 @@ Utilizes a premium, side by side long horizontal inline input group layout wrapp
 Inline Vector Image Elements:
 Replaces standard plain text emojis with a sharp, standard compliant vector SVG speaker path inside a precisely bounded circle. Using fill current color ensures the icon naturally inherits accent theme tokens without layout friction.
 
----
 
 ## Testing Matrix and Verification Steps
 To ensure absolute layout and engine stability, a definitive series of cross environment test parameters were successfully executed:
@@ -56,7 +53,6 @@ To ensure absolute layout and engine stability, a definitive series of cross env
 
 3. Inputting randomized invalid string structures proves the runtime handles network exception flags correctly, resetting active result card containers to hide old items seamlessly to keep visual presentation states clean.
 
----
 
 ## Version Control and Maintenance Protocols
 * The application is managed through a secure GitHub repository, leveraging clear feature commit tracking structures to preserve codebase integrity across subsequent iterations.
